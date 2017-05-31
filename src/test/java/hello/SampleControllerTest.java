@@ -9,7 +9,7 @@ import org.junit.Test;
  * Created by scott on 5/30/2017.
  */
 
-public class  SampleControllerTest {
+public class SampleControllerTest {
     @Before
     public void setUp() {
         System.out.println("Setting up the Test");
